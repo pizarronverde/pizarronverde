@@ -51,7 +51,7 @@ Hechas en VPython y librerías de visualización 3D.
 
 🌐 Página oficial: [pizarronverde.com](https://pizarronverde.com) _(en construcción)_  
 
-📺 YouTube: [Pizarrón Verde](https://www.youtube.com/@PizarronVerde)
+📺 YouTube: [Pizarrón Verde](https://www.youtube.com/PizarronVerde)
 
 ✉️ Contacto: **pizarronverde.com@gmail.com**  
 
