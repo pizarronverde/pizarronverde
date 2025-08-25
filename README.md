@@ -28,13 +28,21 @@ Hechas en VPython y librerías de visualización 3D.
 ## 🛠️ Tecnologías que usamos
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-Lab-orange?logo=jupyter)
+
 ![SymPy](https://img.shields.io/badge/SymPy-symbolic-yellowgreen)
+
 ![NumPy](https://img.shields.io/badge/NumPy-arrays-lightblue?logo=numpy)
+
 ![Pandas](https://img.shields.io/badge/Pandas-dataframes-purple?logo=pandas)
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-visualization-green)
+
 ![Plotly](https://img.shields.io/badge/Plotly-interactive-lightblue?logo=plotly)
+
 ![VPython](https://img.shields.io/badge/VPython-3D-orange)
+
 ![SciPy](https://img.shields.io/badge/SciPy-numerical-darkblue?logo=scipy)
 
 ---
