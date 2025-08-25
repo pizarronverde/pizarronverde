@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Adrián — Fundador de **Pizarrón Verde**
+# 👋 ¡Hola! Bienvenidos a **Pizarrón Verde**
 
-🎓 **Pizarrón Verde (Green Board)** es un proyecto educativo internacional enfocado en crear y compartir **recursos de Matemática, Física y Química** para estudiantes y docentes.  
+🎓 **Pizarrón Verde** es un proyecto educativo internacional enfocado en crear y compartir **recursos de Matemática, Física y Química** para estudiantes y docentes.  
 📚 Ofrecemos **notebooks interactivos, cursos completos, simulaciones y bibliografía** usando Python y sus principales librerías científicas (SymPy, NumPy, Pandas, Matplotlib, Plotly, VPython, SciPy, etc.).  
 🌍 Nuestro contenido está dirigido a la comunidad hispanohablante (Argentina, Latinoamérica, España y EE.UU.), y próximamente en inglés.
 
