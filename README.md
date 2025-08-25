@@ -59,6 +59,8 @@ Hechas en VPython y librerías de visualización 3D.
 
 Si te gusta lo que hacemos, ayudanos a crecer:  
 
+[![Mercado Pago](https://img.shields.io/badge/Mercado%20Pago-Donar-blue?logo=mercadopago)](https://link.mercadopago.com.ar/pizarronverde)
+[![Cafecito](https://img.shields.io/badge/Cafecito-Invitame%20un%20café-brown?logo=buymeacoffee)](https://cafecito.app/pizarronverde)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Donar-blue?logo=kofi)](https://ko-fi.com/pizarronverde)  
 [![PayPal](https://img.shields.io/badge/PayPal-Donar-lightblue?logo=paypal)](https://paypal.me/greenboardOK)  
 
